@@ -13,11 +13,11 @@ The ipyn contains model developed using BERT too, since I wanted to learn, as th
 
 Here is a example of how the dataset looks:
 
-![This is an image](../master/images/Dataset.JPG)
+![This is an image](./images/Dataset.JPG)
 
 The composition of classes in it: 
 
-![This is an image](../master/images/chart.JPG)
+![This is an image](./images/chart.JPG)
 
 You can checkout the complete dataset in /dataset/f3.csv
 
@@ -49,16 +49,14 @@ npm start
 
 Here are the screenshots of the app:
 
-![This is an image](../master/images/Screenshot(574).png)  
+![This is an image](./images/Screenshot(574).png)  
 
-![This is an image](../master/images/Screenshot(575).png)
+![This is an image](./images/Screenshot(575).png)  
 
-![This is an image](../master/images/Screenshot(576).png)     
+![This is an image](./images/Screenshot(577).png)
 
-![This is an image](../master/images/Screenshot(577).png)
+![This is an image](./images/Screenshot(578).png)     
 
-![This is an image](../master/images/Screenshot(578).png)     
+![This is an image](./images/Screenshot(579).png)
 
-![This is an image](../master/images/Screenshot(579).png)
-
-![This is an image](../master/images/Screenshot(580).png)
+![This is an image](./images/Screenshot(580).png)
